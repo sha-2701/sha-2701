@@ -72,7 +72,7 @@ I am **Shashwat Srivastava**, an undergraduate majoring in Computer Science and 
 <p>
   <h1 align=center>✨Connect With Me✨
 <p align="centre">
-  <br/>
+  <br/> 
 <a href="www.linkedin.com/in/shashwatsrivastava02">
 <img src="https://img.icons8.com/color/512/linkedin-circled.png" width=45>
 </a>
